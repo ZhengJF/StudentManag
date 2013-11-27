@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385551756 source:f:\c++\学生成绩管理\main.cpp
+	"iostream"
+	<cstring>
+
